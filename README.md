@@ -1,2 +1,2 @@
-$ git config --global user.name "Your Name"
-$ git config --global user.email youremail@csu.fullerton.edu
+$ git config --global user.name "Pedro Perez"
+$ git config --global user.email pere13154@csu.fullerton.edu
